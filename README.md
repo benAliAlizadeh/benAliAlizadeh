@@ -12,7 +12,7 @@ Welcome to my GitHub corner! I’m a **.NET Developer & Software Specialist** wi
 
 ---
 
-## 🌟 My Top Projects
+## 🌟 My Public Projects
 - **[sms-ir-api](https://github.com/benAliAlizadeh/sms-ir-api)**: A lightweight C# client for SMS.ir API, built with ASP.NET Core and RTL support. 📬
 - **[UniTiket-signalR](https://github.com/benAliAlizadeh/UniTiket-signalR)**: An online ticketing system with real-time chat using .NET 6 and SignalR. 🎟️
 - **[EmailSenderApi](https://github.com/benAliAlizadeh/EmailSenderApi)**: A smooth email-sending app with ASP.NET Core Razor Pages. ✉️
