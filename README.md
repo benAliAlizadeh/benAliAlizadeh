@@ -21,7 +21,7 @@ Welcome to my GitHub corner! I’m a **.NET Developer & Software Specialist** wi
 
 ## 💬 Let’s Connect!
 - 🌐 Visit [my website](https://alizadeh82.ir/)
-- 📫 Email me: [benali.alizadeh82@gmail.com](mailto:benali.alizadeh82@gmail.com)
+- 📫 Email me: [benalializadeh@gmail.com](mailto:benalializadeh@gmail.com)
 - 📞 Chat on [Telegram](https://t.me/Benalializadeh)
 
 ---
